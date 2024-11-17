@@ -405,6 +405,7 @@
 "Assets/Easy FPS/Scripts/GunScript.cs"
 "Assets/Easy FPS/Scripts/MouseLookScript.cs"
 "Assets/Easy FPS/Scripts/PlayerMovementScript.cs"
+"Assets/Scripts/EnemyFollow.cs"
 -langversion:9.0
 /deterministic
 /optimize+
